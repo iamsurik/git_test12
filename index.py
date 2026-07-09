@@ -8,3 +8,6 @@ for a in range(20,200):
     print(a)
 
     print("ABCabc")
+
+name = 'Yasha'
+print(len(name))
