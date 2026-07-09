@@ -15,3 +15,11 @@ print(len(name))
 name = 'Roma'
 print(name[0])
 print(name[1])
+
+a = 10
+b = 20
+c = 30
+
+print(a+b+c)
+print(min(a,b,c))
+print(max(a,b,c))
