@@ -28,3 +28,8 @@ print(max(a,b,c))
 n = [1,32,54,13,45,57]
 n.sort()
 print(n)
+
+n = tuple(n)
+print(n)
+for i in n:
+    print(i)
