@@ -19,5 +19,5 @@ print(name[1])
 a = 10
 b = 20
 c = 30
-sum = a+b+c
-print(sum / 3)
+sumnum = a+b+c
+print(sumnum / 3)
