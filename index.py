@@ -11,3 +11,7 @@ for a in range(20,200):
 
 name = 'Yasha'
 print(len(name))
+
+name = 'Roma'
+print(name[0])
+print(name[1])
