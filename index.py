@@ -15,3 +15,9 @@ print(len(name))
 name = 'Roma'
 print(name[0])
 print(name[1])
+
+a = 10
+b = 20
+c = 30
+sum = a+b+c
+print(sum / 3)
