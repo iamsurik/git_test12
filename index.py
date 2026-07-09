@@ -19,6 +19,8 @@ print(name[1])
 a = 10
 b = 20
 c = 30
+sumnum = a+b+c
+print(sumnum / 3)
 
 print(a+b+c)
 print(min(a,b,c))
