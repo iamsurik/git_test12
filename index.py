@@ -25,3 +25,6 @@ print(sumnum / 3)
 print(a+b+c)
 print(min(a,b,c))
 print(max(a,b,c))
+n = [1,32,54,13,45,57]
+n.sort()
+print(n)
